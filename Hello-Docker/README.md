@@ -13,4 +13,4 @@
 
 ### Get (pull) docker image from docker-hub
   - $ docker pull [docker-image-name]
-    - $ docker pull 
+    - $ docker pull ...
